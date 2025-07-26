@@ -72,7 +72,7 @@ The **Mobile Sales Data Dashboard** enables a detailed analysis of sales perform
 
 ## 📷 Screenshots
 
->
+> ![Dashboard](https://github.com/Harsh4AP/PowerBI-Dashboard/blob/main/Mobile%20Sales%20Data%20Dashboard.pbix)
 
 ---
 
